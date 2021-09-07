@@ -36,8 +36,14 @@ export default function PhotoGallery() {
         </div>
       </div>
       {/* CARD COLUMNS */}
-      <div className=''>
-        <div className='md:flex'></div>
+      <div className='container mt-5'>
+        <div className='md:flex'>
+          <div className='flex-1 text-gray-700 text-center-700 bg-gray-400 px-5 py-5 m-2 rounded'>
+            <div className='lg:flex lg:item-center'>
+              <div className='lg:flex-shrink-0'></div>
+            </div>
+          </div>
+        </div>
       </div>
 
     </>
