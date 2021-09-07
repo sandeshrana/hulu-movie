@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import Instagram from '../components/Instagram'
-import Iphone from '../components/Iphone'
+import PhotoGallery from '../components/PhotoGallery'
+
 
 //main fn()
 export default function index() {
@@ -10,8 +10,7 @@ export default function index() {
   return (
     <>
       <div>
-        {/* <Iphone /> */}
-        <Instagram />
+        <PhotoGallery />
 
 
       </div>
