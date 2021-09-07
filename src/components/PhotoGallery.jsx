@@ -28,11 +28,11 @@ export default function PhotoGallery() {
       {/* CARD COMPENENT */}
       <div className="max-w-sm mx-auto flex p-6 bg-gray-400 rounded-lg shadow-xl">
         <div className="flex-shrink-0">
-          <img src="https://source.unsplash.com/1600*900/?nature,water" alt="" className='h-12 w-12' />
+          <img src="https://source.unsplash.com/1600x900/?nature and water" alt="" className='h-12 w-12' />
         </div>
         <div className="ml-6 pt-1">
           <h4 className='textxl text-gray-900'>Nature and water</h4>
-          <p className="text-base text-gray-600">You are a new message!</p>
+          <p className="text-base text-gray-600"></p>Peace☮️
         </div>
       </div>
       {/* CARD COLUMNS */}
@@ -41,26 +41,26 @@ export default function PhotoGallery() {
           <div className='flex-1 text-gray-700 text-center-700 bg-gray-400 px-5 py-5 m-2 rounded'>
             <div className='lg:flex lg:item-center'>
               <div className='lg:flex-shrink-0'>
-                <img className='rounded-lg  lg:w-64' src="https://source.unsplash.com/1600*900/?nature,water" alt="ERROR" />
+                <img className='rounded-lg  lg:w-64' src="https://source.unsplash.com/1600x900/?garden" alt="ERROR" />
               </div>
               <div className="mt-4 lg:mt-0 ml-6">
                 <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold'>
-                  Networking
+                  Beautiful Nature & Water
                 </div>
                 <a href="#"
                   className='block mt-1 text-lg leading-tight font-semibold text-gray-900 hover:underline'
-                >Finding connection to help your business grow</a>
+                >I lOVE PEACE .🕊️🤍</a>
               </div>
             </div>
           </div>
           <div className='flex-1 text-green-700 text-center bg-gray-400 px-5 py-5 m-2 rounded'>
             <div className='lg:flex lg:items-center'>
               <div className='lg:flex-shrink-0'>
-                <img className='rounded-lg lg:w-64' src="https://source.unsplash.com/1600*900/?nature,water" alt="ERROR" />
+                <img className='rounded-lg lg:w-64' src="https://source.unsplash.com/1600x900/? forest," alt="ERROR" />
               </div>
               <div className='mt-4 lg:m-0 lg:ml-6'>
-                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold'>Marketing</div>
-                <a href="#" className='block mt-1 text-lg leading-tight font-semibold text-gray-900 hover:underline'>Finding customer for a new business</a>
+                <div className='uppercase tracking-wide text-sm text-indigo-600 font-bold'>Beautiful Nature & Water</div>
+                <a href="#" className='block mt-1 text-lg leading-tight font-semibold text-gray-900 hover:underline'>WE SHOULDN'T DESTORY OUR NATURE🥺  WE SHOULD PROTECT OUE NATURE .✊🌏</a>
               </div>
             </div>
           </div>
