@@ -20,13 +20,16 @@ export default function Making() {
         <div className="text-white w-1/12">Order</div>
         <div className="text-white w-1/12">Cart</div>
       </div>
-      <div className="flex bg-gray-500 text-white ">
+      <div className="flex bg-gray-700 text-white ">
         <div className="mx-3">ALL</div>
         <div className="mx-3">Today's Deals</div>
         <div className="mx-3">Customer Service</div>
         <div className="mx-3">Registry</div>
         <div className="mx-3">Gift Card</div>
         <div className="mx-3">Sell</div>
+      </div>
+      <div className='lg:flex-shrink-0'>
+        <img className='' src="https://source.unsplash.com/1400x200/?Colothes and Shoes" alt="" />
       </div>
 
     </>
