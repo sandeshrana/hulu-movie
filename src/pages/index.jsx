@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import PhotoGallery from '../components/PhotoGallery'
+import Pratice from '../components/Pratice'
 
 
 //main fn()
@@ -10,9 +11,8 @@ export default function index() {
   return (
     <>
       <div>
-        <PhotoGallery />
-
-
+        {/* <PhotoGallery /> */}
+        <Pratice />
       </div>
     </>
   )

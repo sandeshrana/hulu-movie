@@ -1,5 +1,5 @@
+
 import Link from 'next/link'
-//import above
 
 //main fn()
 export default function Header() {
@@ -8,8 +8,16 @@ export default function Header() {
   //main return
   return (
     <>
-      { /* 👇 Code starts from here */} <div>
-        <div>Heading 11</div>
+      {/* Code Starts from here */}
+      <div>
+
+        <h2 className='text-lg font-bold '>
+          laptop
+          <p>
+            laptop play important role in our daily life .
+          </p>
+
+        </h2>
       </div>
     </>
   )
