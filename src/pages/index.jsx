@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Making from '../components/Making'
 import PhotoGallery from '../components/PhotoGallery'
 import Pratice from '../components/Pratice'
 
@@ -12,7 +13,8 @@ export default function index() {
     <>
       <div>
         {/* <PhotoGallery /> */}
-        <Pratice />
+        {/* <Pratice /> */}
+        <Making />
       </div>
     </>
   )
