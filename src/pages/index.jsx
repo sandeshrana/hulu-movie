@@ -1,8 +1,7 @@
-import Link from 'next/link'
-import Making from '../components/Making'
-import PhotoGallery from '../components/PhotoGallery'
-import Pratice from '../components/Pratice'
 
+import Link from 'next/link'
+import Footer from '../components/Footer'
+// import Making from '../components/Making'
 
 //main fn()
 export default function index() {
@@ -11,10 +10,10 @@ export default function index() {
   //main return
   return (
     <>
+      {/* Code Starts from here */}
       <div>
-        {/* <PhotoGallery /> */}
-        {/* <Pratice /> */}
-        <Making />
+        {/* <Making /> */}
+        <Footer />
       </div>
     </>
   )
